@@ -12,7 +12,8 @@ const test1 = {
 }
 
 const test2 = {
-  test1: ''
+  test1: '',
+  test2: ''
 }
 
 const test3 = {}
