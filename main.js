@@ -9,7 +9,7 @@ console.log('test')
 
 const test1 = {
   test1: '',
-  test2: ''
+  test2: 'swswswswswsws'
 }
 
 const test2 = {
