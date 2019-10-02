@@ -6,7 +6,10 @@ console.log('test')
 console.log('test')
 console.log('test')
 
-const test1 = {}
+const test1 = {
+  test1: '',
+  test2: ''
+}
 
 const test2 = {}
 
