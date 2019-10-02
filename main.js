@@ -8,6 +8,8 @@ console.log('test')
 
 const test1 = {}
 
-const test2 = {}
+const test2 = {
+  test1: ''
+}
 
 const test3 = {}
